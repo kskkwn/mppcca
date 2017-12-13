@@ -3,6 +3,8 @@ Code for our paper *Causal Patterns: Extraction of Multiple Causal Relationships
 
 ## Publication
 Hiroki Mori, Keisuke Kawano and Hiroki Yokoyama. "*Causal Patterns: Extraction of Multiple Causal Relationships by Mixture of Probabilistic Partial Canonical Correlation Analysis*" Proceedings of the 2017 IEEE International Conference on Data Science and Advanced Analytics. pp.744-754
+https://arxiv.org/abs/1712.04221
+
 
 ## Dependencies
 - for mppcca.py
